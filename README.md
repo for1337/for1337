@@ -1,6 +1,6 @@
 ### Who am i? 🤔
 
-- 🔭 I’m currently working on CockroachDb best strategies...
+- 🔭 I’m currently working on SaltStack strategies...
 - 🌱 I’m currently improving C#
 - 💬 Ask me about business projects
 - ⚡ Fun fact: The first gigabyte drive cost $40,000
