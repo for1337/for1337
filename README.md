@@ -1,9 +1,9 @@
 ### Who am i? 🤔
 
 - 🔭 I’m currently working on SaltStack strategies...
-- 🌱 I’m currently improving C#
-- 💬 Ask me about business projects
-- ⚡ Fun fact: The first gigabyte drive cost $40,000
+- 🌱 I’m currently improving my english.
+- 💬 Ask me about business projects.
+- ⚡ Fun fact: The first gigabyte drive cost $40,000.
 
 
 
